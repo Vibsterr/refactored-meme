@@ -1,2 +1,2 @@
-# refactored-meme
+# Refactored Meme
 Our proposed game
